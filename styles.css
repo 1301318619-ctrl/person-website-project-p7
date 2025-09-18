@@ -1,0 +1,47 @@
+       body {
+            background-color: rgb(249, 213, 219);
+        }
+
+        h1 {
+            background-color: pink;
+            font-size: 28px;
+            font-style:italic;
+            font-family: serif;
+            color: rgb(152, 82, 93);
+        }
+
+        h2 {
+            background-color: pink;
+            font-size: 28px;
+            font-style: italic;
+            font-family: serif;
+            color: rgb(152, 82, 93);
+        }
+
+        ul {
+            background-color: lightyellow;
+        }
+
+        table {
+            border-color:beige;
+        }
+
+        h4 {
+            background-color: pink;
+            font-size: 18px;
+            font-style: italic;
+            font-family: serif;
+            color: rgb(152, 82, 93);
+        }
+
+        h3 {
+            background-color: pink;
+            font-size: 18px;
+            font-family: serif;
+            font-style: italic;
+            color: rgb(152, 82, 93);
+        }
+
+        li {
+            color: rgb(152, 82, 93);
+        }
